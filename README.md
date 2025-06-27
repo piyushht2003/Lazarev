@@ -4,7 +4,7 @@ This is a responsive clone of the [Lazarev.Agency](https://www.lazarev.agency/) 
 
 ## 🌐 Live Demo
 
-[Click here to view the live site](https://your-live-site-url.com)
+[Click here to view the live site]([https://your-live-site-url.com](https://lazarev-gray-sigma.vercel.app/))
 
 ---
 
